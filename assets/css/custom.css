@@ -1,0 +1,320 @@
+
+/* 
+===========================
+	Nome-arquivo: custom.css;
+	Autor:  Samuel Pace;
+	Data:  18 jun, 22;
+
+	Índice
+
+	1. Geral
+	2. Cabeçalho
+	3. Cidades
+	4. Elementos
+	5. Stats
+	6. Footer
+
+
+=========================== 
+*/
+
+/* 
+=========================== 
+	1. Geral
+=========================== 
+*/
+body {
+	font-family: 'Roboto', sans-serif;
+	background:#2a2131;
+
+	
+}
+ 
+
+h1 {
+
+    font-size: 48px;
+    line-height: 120%;
+    /* margin-top: 150px; */
+    font-weight: 600;
+    color: #eceff1 ;
+
+}
+
+
+h4 {
+
+	font-size: 32px;
+    color:#9575cd;
+
+}
+
+h5 {
+
+	font-size: 1.64rem;
+    line-height: 110%;
+    margin: 1.0933333333rem 0 0.656rem 0;
+    color:#eceff1;
+
+}
+
+h6 {
+
+	font-size: 12px
+    line-height: 110%;
+    margin: 1.0933333333rem 0 0.656rem 0;
+    color:#eceff1;
+
+}
+/* 
+=========================== 
+	1. Cabeçalho
+=========================== 
+*/
+
+header {
+
+
+
+}
+
+
+header #hero {
+
+
+}
+
+
+
+header #bgmap {
+
+	background-image: url(../img/map.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 85% -250px;
+    background-size: 1000px;
+
+
+
+
+
+
+}
+
+header nav {
+	color:#eceff1;
+	background:linear-gradient(135deg, #2a2131 30%, #9575cd 80%);
+	-webkit-box-shadow:none;
+
+}
+
+header #hero-title h1 {
+
+	margin-bottom: -4px;
+
+}
+
+header #hero-subtitle h5 {
+	margin-bottom: 24px;
+}
+
+
+#scroll i {
+
+	font-size: 50px;
+	color:#9575cd ;
+
+}
+
+#scroll {
+
+	margin-bottom: -8px;
+	margin-top: 24px;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.brand-logo {
+	 size:300px;
+	 font-size:24px;
+}
+
+#proposta-de-valor {
+	height: 750px;
+
+
+}
+
+#proposta-de-valor a {
+	color:#2a2131;
+	background:#9575cd;
+	font-weight: 600;
+}
+
+#bgmap {
+
+
+}
+
+section {
+	background:#2a2131;
+
+
+}
+
+#seta {
+
+	 font-size:18px;
+}
+/* 
+=========================== 
+	3. Cidades
+=========================== 
+*/
+
+#cidades
+ {
+
+}
+
+#cidade-titulo {
+
+	font-size: 24px;
+    line-height: 32px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 32px;
+    color:#ede7f6;
+    padding:none;
+
+}
+
+.card-action a {
+
+	background:#9575cd;
+	color:#ede7f6;
+	font-weight: 400;
+	font-size: 16px;
+	padding: 16px 24px;
+}
+
+
+.card-action a:hover {
+
+	background:#f570cd;
+}
+
+/* 
+=========================== 
+	4. Elementos
+=========================== 
+*/
+
+#elementos
+ {
+
+	
+}
+
+#elementos-conteudo {
+
+background: #110d14;
+}
+
+#elementos-titulo {
+
+}
+
+#elementos-subtitulo p {
+
+	color:#ede7f6;
+	font-size: 18px;
+	margin-bottom: 32px;
+	
+
+}
+
+.elementos-conteudo-titulo {
+
+	margin-top: 32px;
+	color:#9575cd;
+	font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+    padding: 16px 16px 0px 16px;
+}
+
+.elementos-conteudo-itens li {
+
+    color:#ede7f6;
+    padding: 4px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: left;
+    margin-left: 32px;
+
+
+}
+
+
+
+/* 
+=========================== 
+	5. Stats
+=========================== 
+*/
+
+#stats  {
+
+	padding: 60px 0px;
+	background-image: url(../img/stats.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 50% 100px;
+	background-size: 100% auto;
+
+
+}
+
+#stats-conteudo {
+
+
+
+}
+
+.stats-titulo {
+
+	font-weight: 600;
+	font-size: 60px;
+	line-height: 32px;
+	color:#9575cd;
+	text-shadow: 0px 0px 15px #000000;
+	padding-top: 32px;
+
+}
+
+.stats-subtitulo h5 {
+
+	color:#ede7f6 ;
+	font-weight: 400;
+	text-shadow: 0px 0px 15px #000000;
+}
+
+/* 
+=========================== 
+	6. Footer
+=========================== 
+*/
+
+#footer
+ {
+
+}
+
+.page-footer {
+
+	background: #110d14;
+	color:#ede7f6;
+}
