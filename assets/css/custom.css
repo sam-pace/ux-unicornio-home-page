@@ -60,7 +60,7 @@ h5 {
 
 h6 {
 
-	font-size: 12px
+	font-size: 12px;
     line-height: 110%;
     margin: 1.0933333333rem 0 0.656rem 0;
     color:#eceff1;
@@ -71,20 +71,6 @@ h6 {
 	1. Cabeçalho
 =========================== 
 */
-
-header {
-
-
-
-}
-
-
-header #hero {
-
-
-}
-
-
 
 header #bgmap {
 
@@ -151,11 +137,6 @@ header #hero-subtitle h5 {
 	font-weight: 600;
 }
 
-#bgmap {
-
-
-}
-
 section {
 	background:#2a2131;
 
@@ -172,10 +153,6 @@ section {
 =========================== 
 */
 
-#cidades
- {
-
-}
 
 #cidade-titulo {
 
@@ -210,20 +187,12 @@ section {
 =========================== 
 */
 
-#elementos
- {
-
-	
-}
 
 #elementos-conteudo {
 
 background: #110d14;
 }
 
-#elementos-titulo {
-
-}
 
 #elementos-subtitulo p {
 
@@ -278,12 +247,6 @@ background: #110d14;
 
 }
 
-#stats-conteudo {
-
-
-
-}
-
 .stats-titulo {
 
 	font-weight: 600;
@@ -308,10 +271,6 @@ background: #110d14;
 =========================== 
 */
 
-#footer
- {
-
-}
 
 .page-footer {
 
